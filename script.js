@@ -1,0 +1,1 @@
+const sectionAbout = document.getElementById('eu');
